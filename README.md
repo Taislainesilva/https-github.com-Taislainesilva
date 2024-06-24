@@ -4,4 +4,4 @@ Meu nome é Taislaine
  - Estou me desenvolvendo na linguagem JavaScript
  - Utilizo esse espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos
 
-![descrição do GIF](https://giffiles.alphacoders.com/395/3951.gif)
+![descrição do GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgE5bKrjE2fL_MNJvRN0v8Yud2Wi2pXdmanDWOmCEzSwp8UvxXYF0AtXxDFMQ6QgNBwA&usqp=CAU)
