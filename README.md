@@ -4,4 +4,4 @@ Meu nome é Taislaine
  - Estou me desenvolvendo na linguagem JavaScript
  - Utilizo esse espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos
 
-![descrição do GIF] (https://gifman.net/wp-content/uploads/2021/11/naruto-e-sasuke-engracado-01.gif).
+![descrição do GIF] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fanime-wallpaper-pc-and-mobile-giyu-tomioka-kimetsu-no-yaiba-david-live-wallpapers-KMOI2o&psig=AOvVaw2Pb0Ax9exqUdMy6xOIOoVP&ust=1722947669694000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjLwLPu3YcDFQAAAAAdAAAAABAE).
