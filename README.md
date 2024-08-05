@@ -4,4 +4,4 @@ Meu nome é Taislaine
  - Estou me desenvolvendo na linguagem JavaScript
  - Utilizo esse espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos
 
-![descrição do GIF] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fanime-wallpaper-pc-and-mobile-giyu-tomioka-kimetsu-no-yaiba-david-live-wallpapers-KMOI2o&psig=AOvVaw2Pb0Ax9exqUdMy6xOIOoVP&ust=1722947669694000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjLwLPu3YcDFQAAAAAdAAAAABAE).
+![descrição do GIF] (https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fnaruto-shippuden-online%2Fpage%2Fitem%2Fhistoria-do-giyuu-tomioka%2FdDvV_D5HaI18qKW2zjkR7zKLxB0Ezvlb6a&psig=AOvVaw0aC4TRwE6a4BtVXFt8Tu2M&ust=1722948078192000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOi2_fPv3YcDFQAAAAAdAAAAABAJ).
